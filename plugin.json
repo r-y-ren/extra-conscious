@@ -1,0 +1,13 @@
+{
+  "name": "extra-conscious",
+  "displayName": "Extra-Conscious (认知外任务侦察与执行工作流)",
+  "version": "0.1.0",
+  "description": "面向认知外领域的六阶段可验证工程工作流：Survey术语侦察 → 纯脚本Skill混合检索（DuckDB fts+vss+RRF）→ 分面综合/多源反推 → 骨架合成与Lint闸门 → 论文/开源精准填充与锚点回填 → 三层验证执行与差异报告。",
+  "homepage": "https://github.com/r-y-ren/extra-conscious",
+  "repository": "https://github.com/r-y-ren/extra-conscious",
+  "suggestedPrompts": [
+    "Run extra-conscious workflow for a task outside my domain knowledge",
+    "Check extra-conscious environment and dependencies with recon doctor",
+    "Build or refresh the local skill library index"
+  ]
+}

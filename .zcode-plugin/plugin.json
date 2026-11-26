@@ -1,0 +1,14 @@
+{
+  "name": "extra-conscious",
+  "version": "0.1.0",
+  "description": "面向认知外领域的六阶段可验证工程工作流：Survey 术语侦察 → 纯脚本 Skill 混合检索（DuckDB fts+vss+RRF）→ 分面综合/多源反推 → 骨架合成与 Lint 闸门 → 论文/开源精准填充与锚点回填 → 三层验证执行与差异报告。",
+  "homepage": "https://github.com/r-y-ren/extra-conscious",
+  "repository": "https://github.com/r-y-ren/extra-conscious",
+  "keywords": [
+    "skills",
+    "workflow",
+    "research",
+    "duckdb",
+    "agent"
+  ]
+}

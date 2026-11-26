@@ -1,0 +1,15 @@
+{
+  "name": "extra-conscious",
+  "description": "面向 AI 认知外任务的六阶段可验证侦察与执行工作流：Survey 术语侦察、DuckDB 混合 Skill 检索、分面综合/多源反推、骨架合成与 Lint 闸门、论文/开源精准填充、三层验证与差异报告。",
+  "owner": {
+    "name": "r-y-ren"
+  },
+  "plugins": [
+    {
+      "name": "extra-conscious",
+      "description": "认知外任务侦察与可验证执行工作流（recon CLI + 六阶段编排技能与四类子代理规范）。",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
